@@ -23,15 +23,15 @@ This script is for security or lock in termux
 
 ``apt install git ``
 
-``git clone`` https://github.com/M4ND33P-M4L4K4R143/Termux-Login
+``git clone`` 
 
-``cd Termux-Login``
+``cd Termux-Lock``
 
-``chmod +x setup.sh login.sh``
+``chmod +x setup.sh Lock.sh``
 
 ``bash setup.sh``
 
-``bash login.sh``
+``bash Lock.sh``
 
 
 
@@ -40,6 +40,6 @@ This script is for security or lock in termux
 
 **If you entered password incorrect or name i can't help you**
 
-# Contributers
-Mandeep Malakar (only)
+# Author
+Sabih kz (only)
 
